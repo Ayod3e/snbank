@@ -1,4 +1,0 @@
-Account Name: Magalici 
-Opening Balance: 2323230000.0 
-Account Type: Current 
-Account Email: maga@hotmail.com 
